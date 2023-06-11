@@ -1,6 +1,6 @@
 # Websocket-server
 
-Websocket-server is a Java app for generation unique BigInteger.
+Websocket-server является Java приложением для генерации BigInteger и отправки этого результата по протоколу WebSocket.
 
 
 ## Task Description
